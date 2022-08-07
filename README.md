@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ritesh! I'm a high-schooler interested in Human-Computer Interaction, Social Impact, and Educational Technology.
+I'm Ritesh Kanchi, a student at the [University of Washington-Seattle](https://uw.edu). I'm interested in Human-Computer Interaction, Social Impact, and Educational Technology.
 
 I write about my experiences and thoughts on the topics of technology, art, and education. I also create cool things from time to time.
 
