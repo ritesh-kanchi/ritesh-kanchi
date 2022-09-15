@@ -1,29 +1,22 @@
-## Hi there 👋
+## Hi there! I'm Ritesh Kanchi.
 
-I'm Ritesh Kanchi, a student at the [University of Washington-Seattle](https://uw.edu). I'm interested in Human-Computer Interaction, Social Impact, and Educational Technology.
+I'm an engineering student at the [University of Washington-Seattle](https://uw.edu), and I design and build experiences that are fun, accessible, and human-centered.
 
-I write about my experiences and thoughts on the topics of technology, art, and education. I also create cool things from time to time.
+I'm interested in human-computer interaction, digital social impact, and educational technology.
 
-## My work life
-I'm also the Executive Director and Director of Technology at [STEMpump](https://stempump.org), a nonprofit dedicated to creating a global learning platform
-for contribution, collaboration, and expression. We're 100% student-run, and create free edtech for students. That said, a lot of my work is private, meaning I can't share as much as I'd like. 😓
+## A bit about me
+I'm passionate about exploring the intersection between design and technology, and using design to solve problems across different groups of people.
 
-P.S. if you'd link to work with me, [apply to join STEMpump](https://stempump.org/join-us)!
+I want to design technology that is accessible, human-centered, fun, and simple - with the main goal of creating a more equitable world. There's something empowering about using design to really influence the way people think, feel, and interact with the world through technology.
 
-## Other stuff
-In my spare time, I make games, buy domains, design apps, and just make cool stuff. This is pretty bare for now, and I might spruce it up later 🤷‍♂️
+When I'm not breaking and/or trying to fix things, you can find me watching a movie, attempting to cook, or playing video games (currently playing Splatoon 3)
 
-<!--
-**ritesh-kanchi/ritesh-kanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I've done
+- Founded a nonprofit that taught 140k+ students in 110 countries
+- Won the Apple WWDC20 Swift Student Challenge
+- Moved way too much growing up
+- Had my app featured on the App Store as App of the Day
+- Designed and built an app hub used by 500k+ people
+- Didn't listen to my high school CS teacher
+- Got a cease and desist letter from a big music company
+- Still trying to figure out what comes next.
