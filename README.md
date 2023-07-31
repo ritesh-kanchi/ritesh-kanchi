@@ -1,6 +1,6 @@
 ## Hi there! I'm Ritesh Kanchi.
 
-I'm an engineering student at the [University of Washington-Seattle](https://uw.edu), and I design and build experiences that are fun, accessible, and human-centered.
+I'm a Computer Science student at the [University of Washington-Seattle](https://uw.edu), and I design and build experiences that are fun, accessible, and human-centered.
 
 I'm interested in human-computer interaction, digital social impact, and educational technology.
 
