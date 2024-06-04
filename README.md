@@ -1,5 +1,5 @@
 ## Hi there! I'm Ritesh Kanchi.
-I'm a junior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on Human-Computer Interaction. I work on developing and designing experiences that are accessible, impactful, and (hopefully) a bit magical ✨
+I'm a junior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on HCI and Design. I work on and research accessibility, education, and interface design within the realm of Human-Computer Interaction.
 
 ## About me
 My work involves developing and designing experiences that are accessible, impactful, and (hopefully) a bit magical ✨. At this intersection of design and development, I believe in crafting digital encounters that are equitable, inclusive, and empowering, while focusing on the human behind the screen.
