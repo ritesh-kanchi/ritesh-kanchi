@@ -6,7 +6,7 @@ I'm a senior at the [University of Washington](https://uw.edu) studying Computer
 ## About me
 My work involves developing and designing experiences that are accessible, impactful, and (hopefully) a bit magical ✨. At this intersection of design and development, I believe in crafting digital experiences that are equitable, inclusive, and empowering, while focusing on the, well, human!
 
-In research, I focus on accessibility, education, and interface design/development within the realm of Human-Computer Interaction. I think that these fields are Today, with the increasing reliance on technology and evolving landscapes, these areas are more crucial than ever. I'm excited to address and explore the dynamic challenges they present.
+In research, I focus on accessibility, education, and interface design/development within the realm of Human-Computer Interaction. I think that these fields are super important, especially given our increasing (if not excessive) reliance on technology 😜 I'm excited to see what the future of HCI looks like, and how my research contributes to it.
 
 Some questions I think about include:
 - How do/can students learn best in a given environment?
