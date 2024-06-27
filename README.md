@@ -1,4 +1,4 @@
-![Backdrop](https://github.com/ritesh-kanchi/ritesh-kanchi/assets/29787649/e1074cb2-86b5-4e95-9481-ce4233dc89d9)
+![Backdrop](https://github.com/ritesh-kanchi/ritesh-kanchi/assets/29787649/613f4a9b-9ac4-46e2-9394-361c5137593c)
 
 # Hi there! I'm Ritesh Kanchi.
 I'm a senior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on Human-Computer Interaction and Design. I work on and research accessibility, education, and interface design/development.
