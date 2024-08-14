@@ -1,4 +1,4 @@
-![Backdrop](https://github.com/ritesh-kanchi/ritesh-kanchi/assets/29787649/613f4a9b-9ac4-46e2-9394-361c5137593c)
+![A colorful splat as a background, comprised of blue, red, green, and pink hues and curves.](https://github.com/user-attachments/assets/eec67f4e-08b5-467e-8b04-4db322c61069)
 
 # Hi there! I'm Ritesh Kanchi.
 I'm a senior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on Human-Computer Interaction and Design. I work on and research accessibility, education, and interface design/development.
@@ -6,7 +6,7 @@ I'm a senior at the [University of Washington](https://uw.edu) studying Computer
 ## About me
 My work involves developing and designing experiences that are accessible, impactful, and (hopefully) a bit magical ✨. At this intersection of design and development, I believe in crafting digital experiences that are equitable, inclusive, and empowering, while focusing on the, well, human!
 
-In research, I focus on accessibility, education, and interface design/development within the realm of Human-Computer Interaction. I think that these fields are super important, especially given our increasing (if not excessive) reliance on technology 😜 I'm excited to see what the future of HCI looks like, and how my research contributes to it.
+In research, I focus on accessibility, education, and interface design/development within the realm of Human-Computer Interaction. I think that these fields are super important, especially given our increasing (if not excessive) reliance on technology 😜. I'm excited to see what the future of HCI looks like, and how my research contributes to it.
 
 Some questions I think about include:
 - How do/can students learn best in a given environment?
@@ -26,8 +26,8 @@ I also spend a (probably unhealthy) amount of time thinking about how we can tea
 
 ## Things I've done
 - Founded a nonprofit that taught 150k+ students in 110 countries
-- Help teach hundreds of students in CSE 12X
+- Help teach hundreds of students Computer Science
 - Won the WWDC20 Swift Student Challenge
 - Moved way too much growing up
 - Had my app featured on the App Store as App of the Day
-- **Still trying to figure out what comes next.**
+- **Still trying to figure out what comes next...**
