@@ -1,4 +1,4 @@
-![A colorful splat as a background, comprised of blue, red, green, and pink hues and curves.](https://github.com/user-attachments/assets/eec67f4e-08b5-467e-8b04-4db322c61069)
+![A colored torus knot, comprised of blue, red, green, and pink hues and curves.](https://github.com/user-attachments/assets/224a929b-bfa8-48f4-94ef-65d0b746e708)
 
 # Hi there! I'm Ritesh Kanchi.
 I'm a senior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on Human-Computer Interaction and Design. I work on and research accessibility, education, and interface design/development.
