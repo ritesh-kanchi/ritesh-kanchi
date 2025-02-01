@@ -1,6 +1,6 @@
-![A colored torus knot, comprised of blue, red, green, and pink curved hues.](https://github.com/user-attachments/assets/224a929b-bfa8-48f4-94ef-65d0b746e708)
+![A colored circle, comprised of blue, red, green, purple, and pink curved hues.](https://github.com/user-attachments/assets/179ef8f5-6dec-4098-ab79-4bf756c2edf0)
 
-# Hi there! I'm Ritesh Kanchi.
+# Ritesh Kanchi
 **I'm a senior at the [University of Washington](https://uw.edu) studying Computer Science with a focus on Human-Computer Interaction.** My research focuses on designing and developing intelligent user interfaces for niche communities in accessibility and education.
 
 Some questions I think about include:
@@ -13,11 +13,9 @@ Currently, I am: **building accessible data structure representations for inclus
 [Want to learn more? Check out my website ↗](https://riteshkanchi.com)
 
 ## Affiliations
-- [UW Allen School](https://cs.washington.edu)
+- [UW Paul G. Allen School of Computer Science & Engineering](https://cs.washington.edu)
 - [Makeability Lab](https://makeabilitylab.cs.washington.edu/)
 - [Carnegie Mellon University: Human-Computer Interaction Institute](https://hcii.cmu.edu/)
-- [University of Michigan: School of Information](https://si.umich.edu/)
-- [KidsTeam UW](https://www.kidsteam.ischool.uw.edu/)
 - [Advanced Robotics at UW (ARUW)](https://aruw.org)
 - [Amazon](https://amazon.com)
 
